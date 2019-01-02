@@ -131,15 +131,19 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          else they won’t be highlighted when active.
 NAVIGATION_LINKS = {
   DEFAULT_LANG: (
+    (
+      (
+        ("/tauspectral", "Tau Spectral Functions"),
+      ),
+      "Pages"
+    ),
     ("/posts/", "Posts"),
     ("/tags/", "Tags"),
     ("/archive/", "Archive"),
     ("/rss.xml", "RSS"),
+#    ("/tauspectral", "Tau Spectral Functions"),
 #    ((('/foo', 'FOO'),
 #      ('/bar', 'BAR')), 'BAZ'),
-#   ("./curriculum.html", "Curriculum"),
-#   ("/archive.html", "Archive"),
-#   ("/categories/", "Tags"),
   ),
 }
 
