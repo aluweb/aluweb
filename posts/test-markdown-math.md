@@ -18,3 +18,6 @@ inline math $\tau \to \Lambda \frac{a}{b}$
 displaystyle inline math $\displaystyle \tau \to \Lambda \frac{a}{b}$
 
 display math $$\displaystyle \tau \to \Lambda \frac{a}{b}$$
+
+[tag axial](link://tag/axial)
+
