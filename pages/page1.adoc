@@ -12,7 +12,28 @@
 [cols="a,,10a", frame="none", grid="none", width="100%"]
 |===
 |
-image::/images/alusiani-picture.jpg[]
+image::/images/alusiani-picture.jpg[alt="Alberto Lusiani", width="30ex", height="30ex"]
+|
+|
+[cols="1,1", grid="all", frame="all"]
+!===
+!
+a.lusiani at sns.it	+
+Scuola Normale Superiore +
+Piazza dei Cavalieri 7	+
+56126 Pisa PI
+! 
+alberto.lusiani at pi.infn.it +
+INFN, sezione di Pisa +
+Largo Bruno Pontecorvo 3 +
+56127 Pisa PI
+!===
+|===
+
+[cols="a,,10a", frame="none", grid="none", width="100%"]
+|===
+|
+image::/images/tau18-alu-zoom-IMG_5944-zoom-id-620x-right.jpg[alt="Alberto Lusiani"]
 |
 |
 [cols="1,1", grid="all", frame="all"]
