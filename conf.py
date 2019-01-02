@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Alberto Lusiani" # (translatable)
 BLOG_TITLE = "ALU test web site"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://alusiani.github.io/aluweb"
+SITE_URL = "https://aluweb.github.io/aluweb"
 SITE_URL = "/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
