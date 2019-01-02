@@ -18,15 +18,15 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Alberto Lusiani" # (translatable)
-BLOG_TITLE = "Tau Spectral Functions"  # (translatable)
+BLOG_TITLE = "ALU test web site"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://aluweb.github.io/"
+SITE_URL = "https://alusiani.github.io/aluweb"
 SITE_URL = "/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://lusiani.web.cern.ch/lusiani/"
-BLOG_EMAIL = "alberto.lusiani at pi.infn.it"
+BLOG_EMAIL = "alusiani at gmail.com"
 BLOG_DESCRIPTION = ""  # (translatable)
 
 # Nikola is multilingual!
