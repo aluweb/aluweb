@@ -133,8 +133,7 @@ NAVIGATION_LINKS = {
   DEFAULT_LANG: (
     (
       (
-        ("/page1", "asciidoc test 1"),
-        ("/page3", "asciidoc test 2"),
+        ("link://slug/page1", "asciidoc test"),
         ("/page2", "R notebook test"),
       ),
       "Pages"
