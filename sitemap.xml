@@ -67,22 +67,14 @@
  </url>
  <url>
   <loc>/tags/</loc>
-  <lastmod>2019-01-05T11:23:00Z</lastmod>
+  <lastmod>2019-01-06T10:57:00Z</lastmod>
  </url>
  <url>
   <loc>/tags/aleph/</loc>
   <lastmod>2019-01-05T11:23:00Z</lastmod>
  </url>
  <url>
-  <loc>/tags/axial/</loc>
-  <lastmod>2019-01-05T11:23:00Z</lastmod>
- </url>
- <url>
   <loc>/tags/data/</loc>
-  <lastmod>2019-01-05T11:23:00Z</lastmod>
- </url>
- <url>
-  <loc>/tags/math/</loc>
   <lastmod>2019-01-05T11:23:00Z</lastmod>
  </url>
  <url>
@@ -95,10 +87,6 @@
  </url>
  <url>
   <loc>/tags/rst/</loc>
-  <lastmod>2019-01-05T11:23:00Z</lastmod>
- </url>
- <url>
-  <loc>/tags/vector/</loc>
   <lastmod>2019-01-05T11:23:00Z</lastmod>
  </url>
 </urlset>
